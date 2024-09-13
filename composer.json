@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "This bundle provides some extensions to easycorp/easyadmin-bundle",
     "keywords": ["backend", "admin", "generator"],
-    "homepage": "https://github.com/alterphp/EasyAdminExtensionBundle",
+    "homepage": "https://github.com/quertas666/EasyAdminExtensionBundle",
     "license": "MIT",
     "authors": [
         {
